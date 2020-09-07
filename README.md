@@ -2,6 +2,8 @@
 
 This directory contains a sample Android application that demonstrate how to use the Filament APIs.
 
+![Example](example.jpg)
+
 # Android Studio
 You must use Android Studio 3.6 RC 1 or higher. To open the project, point Studio to the this folder. After opening the project and syncing to gradle, you are ready to run it.
 
